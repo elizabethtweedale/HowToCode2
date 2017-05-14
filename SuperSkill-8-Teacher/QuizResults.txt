@@ -1,0 +1,6 @@
+Elizabeth,1
+Fred,3
+Alvin,0
+Sally,5
+Eliza,4
+George,1
